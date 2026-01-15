@@ -17,7 +17,7 @@ The project focuses on comparing traditional statistical models with more comple
 - **Target variable:** Applicant risk level  
   - Converted to a **binary classification task** for approval vs. rejection
 
-> ⚠️ The dataset is not included in this repository due to licensing restrictions.  
+> The dataset is not included in this repository due to licensing restrictions.  
 > Please download it directly from Kaggle and place the files in a local `data/` directory when running the notebooks.
 
 ---
